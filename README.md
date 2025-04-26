@@ -106,3 +106,17 @@ def calculate_water_saving(cars_per_day, working_days):
 
 # Example: 20 cars/day, 250 working days
 calculate_water_saving(20, 250)
+
+
+# 📁 Project Structure
+Waterless-Car-Wash/
+│
+├── README.md            # Project description
+├── LICENSE              # License file (MIT License)
+├── main.py              # Main script for water saving calculations
+├── data/
+│   └── example_data.csv # (Optional) Example data
+├── docs/
+│   └── images/          # Images/screenshots folder
+│       └── placeholder.txt  # Placeholder file (delete when you upload images)
+└── requirements.txt     # (Optional) Python libraries list (empty if not needed)
